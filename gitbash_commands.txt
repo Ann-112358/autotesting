@@ -1,10 +1,10 @@
 SETUP 
 
-git config --global user.name “[name]”
+git config --global user.name “name”
 
 This command sets username, which aids in reviewing by whom the changes were made. 
 
-git config --global user.email “[email address]”
+git config --global user.email “email address”
 
 This command sets an email address, this inturn helps in tracking by whom the commit or merge activity was made.
 
@@ -14,7 +14,6 @@ This command sets an automatic command line coloring effect for easy reviewing.
 
 CREATE AND INITIALIZE 
 
- 
 git init
 
 This command initialises the existing directory as a git repository
